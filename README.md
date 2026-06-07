@@ -260,8 +260,7 @@ Deployed using **Gradio** as the SDK on HuggingFace Spaces. The following files 
 
 ---
 
-## 👨‍💻 Author
-Tirtha
+## 👨‍💻 Author: Tirtha
 
 ---
 
